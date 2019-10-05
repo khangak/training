@@ -1,0 +1,2 @@
+Huấn luyện dùng git
+T1: Git và commit, đẩy lên bằng push
