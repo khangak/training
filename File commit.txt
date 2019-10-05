@@ -4,4 +4,8 @@ T2: 1 máy local khác commit và push, test xem fetch có làm thay đổi sour
 ->Fetch chỉ thay cập nhật show log thay đổi và ko ảnh hưởng gì tới source
 T3: 1 máy local khác sủa code commit và push trong khi máy local khác cũng đang sửa trên dòng này và ko biết gì.
 Xung đột chỗ này
+-> khi có sự thay đổi ở remote mà dưới 1 local ko pull về trước khi code, và commit thay đổi thì vẫn commit dc nhưng khi push sẽ bị confict ta phải pull lại và sẽ thấy có sự xung đột,dùng resolve để xử lý, khi commit lần tiếp theo hệ thống sẽ tự tạo 1 mess trên commit báo rằng đây là commit sử lý xung đột
+Dấu hiệu nhận thấy mình đang commit sai:fetch show log bị mất nhánh hiển thị origin của master vì khi mình commit thế nó đã tách nhánh local mình ra
+Khắc phục: nên pull về mỗi khi làm và trước khi commit để tránh xung đột
+test lại
 Commit test lại
