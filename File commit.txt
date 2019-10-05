@@ -1,4 +1,6 @@
 Huấn luyện dùng git
 T1: Git và commit, đẩy lên bằng push
 T2: 1 máy local khác commit và push, test xem fetch có làm thay đổi source local của mình ko
+->Fetch chỉ thay cập nhật show log thay đổi và ko ảnh hưởng gì tới source
+T3: 1 máy local khác sủa code commit và push trong khi máy local khác cũng đang sửa trên dòng này và ko biết gì.
 Xung đột chỗ này
