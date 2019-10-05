@@ -1,3 +1,4 @@
 Huấn luyện dùng git
 T1: Git và commit, đẩy lên bằng push
 T2: 1 máy local khác commit và push, test xem fetch có làm thay đổi source local của mình ko
+Xung đột chỗ này
