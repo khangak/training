@@ -9,3 +9,4 @@ Dấu hiệu nhận thấy mình đang commit sai:fetch show log bị mất nhá
 Khắc phục: nên pull về mỗi khi làm và trước khi commit để tránh xung đột
 test lại
 Commit test lại
+T4: đang sửa dưới local thì pull về xem code có thay đổi gì ko và xem cách mà máy merge
