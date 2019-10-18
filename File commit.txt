@@ -15,3 +15,8 @@ local ko biet tu commit mat day
 =======
 tam dung T4,remote commit nhung ko cho local biet
 >>>>>>> ed767960ef91c8417d327e144c153c22a0ba7a05
+-> trường hợp mình cố commit sau khi báo lỗi sẽ hiện lên 1 bảng ignore(bỏ qua) nếu mình cố ý chọn thì nó sẽ cho commit và pus-
+-> ko nên
+trở lại T4:rõ hơn là remote đã có 2 cập nhật mới, dưới local commit 2 cái mới mà ko check remote
+TH1:dùng pull để merge với code local,code được resolve rồi dùng merge để push
+TH1:dùng pull để merge với code local,code được resolve rồi dùng rebase để push
