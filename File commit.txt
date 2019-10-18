@@ -10,4 +10,8 @@ Khắc phục: nên pull về mỗi khi làm và trước khi commit để trán
 test lại
 Commit test lại
 T4: đang sửa dưới local thì pull về xem code có thay đổi gì ko và xem cách mà máy merge
+<<<<<<< HEAD
 local ko biet tu commit mat day
+=======
+tam dung T4,remote commit nhung ko cho local biet
+>>>>>>> ed767960ef91c8417d327e144c153c22a0ba7a05
