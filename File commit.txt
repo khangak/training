@@ -10,4 +10,17 @@ Khắc phục: nên pull về mỗi khi làm và trước khi commit để trán
 test lại
 Commit test lại
 T4: đang sửa dưới local thì pull về xem code có thay đổi gì ko và xem cách mà máy merge
+<<<<<<< HEAD
 *** đây là dòng xóa code cũ nhưng cuối cùng dùng nó để update
+=======
+<<<<<<< HEAD
+local ko biet tu commit mat day
+=======
+tam dung T4,remote commit nhung ko cho local biet
+>>>>>>> ed767960ef91c8417d327e144c153c22a0ba7a05
+-> trường hợp mình cố commit sau khi báo lỗi sẽ hiện lên 1 bảng ignore(bỏ qua) nếu mình cố ý chọn thì nó sẽ cho commit và pus-
+-> ko nên
+trở lại T4:rõ hơn là remote đã có 2 cập nhật mới, dưới local commit 2 cái mới mà ko check remote
+TH1:dùng pull để merge với code local,code được resolve rồi dùng merge để push
+TH1:dùng pull để merge với code local,code được resolve rồi dùng rebase để push
+>>>>>>> fe354367b19eebc6e492f2fda81a755aa3a829e3
