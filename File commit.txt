@@ -30,3 +30,5 @@ server up line
 local1
 local2
 server2
+local2
+test1
