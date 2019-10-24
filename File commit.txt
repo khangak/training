@@ -26,5 +26,6 @@ TH1:dùng pull để merge với code local,code được resolve rồi dùng re
 >>>>>>> fe354367b19eebc6e492f2fda81a755aa3a829e3
 local1remote1
 ------------------------------------------------------------------------------------
+server up line
 local1
 local2
