@@ -27,3 +27,4 @@ TH1:dùng pull để merge với code local,code được resolve rồi dùng re
 local1remote1
 ------------------------------------------------------------------------------------
 server up line
+server up line2
