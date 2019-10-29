@@ -26,4 +26,8 @@ TH1:dùng pull để merge với code local,code được resolve rồi dùng re
 --------------------------------------------------------------------------
 Local commit push -force
 -> force ko nen vi no se push git lam mat code,ko chan su conflith
+<<<<<<< HEAD
 Local commit
+=======
+Server commit
+>>>>>>> 4f9ad705684303ef5688513f639244db88b7f26a
