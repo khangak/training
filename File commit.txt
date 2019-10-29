@@ -24,3 +24,4 @@ trở lại T4:rõ hơn là remote đã có 2 cập nhật mới, dưới local 
 TH1:dùng pull để merge với code local,code được resolve rồi dùng merge để push
 TH1:dùng pull để merge với code local,code được resolve rồi dùng rebase để push
 --------------------------------------------------------------------------
+Local commit push -force
