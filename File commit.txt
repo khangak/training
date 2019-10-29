@@ -23,14 +23,4 @@ tam dung T4,remote commit nhung ko cho local biet
 trở lại T4:rõ hơn là remote đã có 2 cập nhật mới, dưới local commit 2 cái mới mà ko check remote
 TH1:dùng pull để merge với code local,code được resolve rồi dùng merge để push
 TH1:dùng pull để merge với code local,code được resolve rồi dùng rebase để push
->>>>>>> fe354367b19eebc6e492f2fda81a755aa3a829e3
-local1remote1
-------------------------------------------------------------------------------------
-server up line
-server up line2
-local up line
-local up line2
-------------------------------------------------------------------------------------
-server1
-server2
-server3
+--------------------------------------------------------------------------
