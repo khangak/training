@@ -1,4 +1,9 @@
 begin again
 test lam viec
 master cung lam viec nhung rieng re
+<<<<<<< HEAD
 a
+=======
+master
+b
+>>>>>>> f9240486a1d1d6f5d9e106f94438167451583345
